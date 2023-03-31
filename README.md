@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Screenshots
+![Search-Photo!](/src/assets/1.png "index page")
+![Search-Photo!](/src/assets/2.png "index page")
+![Search-Photo!](/src/assets/3.png "index page")
+![Search-Photo!](/src/assets/4.png "index page")
+![Search-Photo!](/src/assets/5.png "index page")
+
 ## Available Scripts
 
 In the project directory, you can run:
